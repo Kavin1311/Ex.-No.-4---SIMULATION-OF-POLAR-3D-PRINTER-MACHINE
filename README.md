@@ -33,7 +33,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![image](https://github.com/kavinajai1311/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151701061/3f39d3f3-5cd3-4777-bc5b-b1aad473d817)
+![image](https://github.com/kavinajai1311/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151701061/cff79e55-bb8d-4d00-b7df-6786d8c6f587)
+
 
 
 ### Name:Kavinajai.T
